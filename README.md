@@ -2,6 +2,7 @@
 This is a data warehousing project that aims to develop an effective movie recommendation system based on users' viewing history. The project uses the Netflix Movies and TV Shows dataset available on Kaggle.
 
 # Project Steps
+Note- We have renamed the dataset from the source name to "movies_df" for convenience
 ## Step 1: Data Cleaning
 The dataset contained missing values and inconsistent data types, which were cleaned using Pandas and Numpy libraries. The missing values were either dropped or filled with the mean of the column. The inconsistent data types were converted to the correct format.
 
